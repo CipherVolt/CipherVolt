@@ -1,6 +1,6 @@
 👨‍💻 Cybersecurity Specialist | Electrical Engineering Enthusiast<br/>
 
-I’m a Cybersecurity professional with a strong focus on Pentesting and a growing portfolio of work in Cyber Threat Intelligence (CTI) reporting. I value precision, clarity, and ethical security practices. My technical interests extend to DIY electronics, automation projects, and open-source tooling.<br/>
+I’m a Cybersecurity Specialist with a strong focus on Pentesting and a growing portfolio of work in Cyber Threat Intelligence (CTI) reporting. I value precision, clarity, and ethical security practices. My technical interests extend to DIY electronics, automation projects, and open-source tooling.<br/>
 
 🛠️ Core Skills:<br/>
 • Penetration Testing (Web, Infra, Wireless, Network)<br/>
